@@ -22,14 +22,14 @@ I work on:\
 <a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-black?logo=apache&logoColor=%23D22128" alt="Apache"></a>
 <a href="https://www.ovhcloud.com/"><img src="https://img.shields.io/badge/OVH-black?logo=ovh&logoColor=%23123F6D" alt="OVH"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-black?logo=visual+studio+code&logoColor=%23007ACC" alt="VS Code"></a>
-<a href="https://www.linkedin.com/in/nicolasborel1/"><img src="https://img.shields.io/badge/Raspberry_Pi-black?logo=raspberry+pi&logoColor=%23A22846" alt="Raspberry Pi"></a>
+<a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry_Pi-black?logo=raspberry+pi&logoColor=%23A22846" alt="Raspberry Pi"></a>
 
 
 
 I used to work here:\
 <a href="https://www.airbus.com/en/products-services/defence"><img src="https://img.shields.io/badge/Airbus-black?logo=airbus&logoColor=%2300205B" alt="Airbus"></a> (Assistant Project Manager)\
 <a href="https://www.activision.com"><img src="https://img.shields.io/badge/Activision_Blizzard-black?logo=activision&logoColor=white" alt="Activision Blizzard"></a> (QA Analyst)\
-<a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Microsoft-black?logo=microsoft&logoColor=%235E5E5E" alt="Microsoft"></a> (Project Manager)\
+<a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Microsoft-black?logo=microsoft&logoColor=%235E5E5E" alt="Microsoft"></a> (Project Manager)
 
 You can reach me here:\
 <a href="https://twitter.com/Nborel_"><img src="https://img.shields.io/badge/Twitter-%40NBorel__-black?logo=twitter&logoColor=%231DA1F2" alt="Twitter - @NBorel_"></a>\
