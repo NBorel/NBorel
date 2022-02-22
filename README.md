@@ -1,9 +1,9 @@
-Hi, my name is Nicolas and I'm currently learning web development.\
+Hi, my name is Nicolas and I'm currently learning web development.
 
 I’m passionate about everything technical including coding, airplanes, tech and more broadly everything with LEDs, microchips, and networks.\
-I work on my own projects (mostly personal websites to train my back-end skills and APIs) and I would love to collaborate on any topic, so please don't hesitate to reach me through Github.\
+I work on my own projects (mostly personal websites to train my back-end skills and APIs) and I would love to collaborate on any topic, so please don't hesitate to reach me through Github.
 
-Trivia: I'm addicted to dark modes.\
+Trivia: I'm addicted to dark modes.
 
 My profile is mostly back-orientated, these are the languages and techs I'm the most familiar with:\
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=%23E34F26" alt="HTML5"></a>
