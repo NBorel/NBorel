@@ -27,7 +27,7 @@ I work on:\
 
 
 I used to work here:\
-<a href="https://www.airbus.com/en/products-services/defence"><img src="https://img.shields.io/badge/Airbus-black?logo=airbus&logoColor=%2300205B" alt="Airbus"></a> (Assistant Project Manager)\
+<a href="https://www.airbus.com/en/products-services/defence"><img src="https://img.shields.io/badge/Airbus-black?logo=airbus&logoColor=%2300205B" alt="Airbus"></a> (Associate Project Manager)\
 <a href="https://www.activision.com"><img src="https://img.shields.io/badge/Activision_Blizzard-black?logo=activision&logoColor=white" alt="Activision Blizzard"></a> (QA Analyst)\
 <a href="https://www.microsoft.com"><img src="https://img.shields.io/badge/Microsoft-black?logo=microsoft&logoColor=%235E5E5E" alt="Microsoft"></a> (Project Manager)
 
