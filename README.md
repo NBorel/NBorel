@@ -33,5 +33,5 @@ I used to work here:\
 
 You can reach me here:\
 <a href="https://twitter.com/Nborel_"><img src="https://img.shields.io/badge/Twitter-%40NBorel__-black?logo=twitter&logoColor=%231DA1F2" alt="Twitter - @NBorel_"></a>\
-<a href="https://www.linkedin.com/in/nicolasborel1/"><img src="https://img.shields.io/badge/LinkedIn-%40NBorel__-black?logo=linkedin&logoColor=%230A66C2" alt="LinkedIn - @NBorel_"></a>\
+<a href="https://www.linkedin.com/in/nicolasborel1/"><img src="https://img.shields.io/badge/LinkedIn-%40NBorel__-black?logo=linkedin&logoColor=%230A66C2" alt="LinkedIn - nicolasborel1"></a>\
 <a href="https://github.com/NBorel"><img src="https://img.shields.io/badge/Github-NBorel-black?logo=github&logoColor=%23181717" alt="Github - NBorel"></a>
